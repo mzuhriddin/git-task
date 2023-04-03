@@ -1,5 +1,7 @@
 Made change in secondFile.txt
 Made change in secondFile.txt
+Changed secondFile.txt to git_1
+Changed secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
